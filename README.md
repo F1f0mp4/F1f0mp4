@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @F1f0mp4
-- 👀 I’m interested in game development
+- 👀 I’m interested in game development and 3d graphic
 - 🌱 I’m currently learning VR game development
 - 💞️ I’m looking to collaborate on some games or something like that
 - 📫 How to reach me fifogames1@gmail.com or use link in bio
