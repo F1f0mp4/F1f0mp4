@@ -1,16 +1,14 @@
-## Hi there 👋
+## Filip Tarcala
 
-<!--
-**F1f0mp4/F1f0mp4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Flutter developer and AI researcher based in Košice, Slovakia.
 
-Here are some ideas to get you started:
+Currently building a cross-platform automotive service marketplace in Flutter/Dart with a PostgreSQL backend. Bachelor's thesis researches LLM steering vectors — modifying large language model generation through activation-space interventions without retraining.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages & tools I use daily:**
+Dart · Flutter · Python · PostgreSQL · TypeScript · Swift · Kotlin · OpenCV
+
+**What I'm working on:**
+- Automotive service marketplace (Flutter + PostgreSQL)
+- LLM steering vectors research (thesis, open-source on completion)
+
+📫 fifo.tarcala1@gmail.com · [LinkedIn](https://linkedin.com/in/filip-tarcala-541a68353)
