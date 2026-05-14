@@ -11,4 +11,4 @@ Dart · Flutter · Python · PostgreSQL · TypeScript · Swift · Kotlin · Open
 - Automotive service marketplace (Flutter + PostgreSQL)
 - LLM steering vectors research (thesis, open-source on completion)
 
-📫 fifo.tarcala1@gmail.com · [LinkedIn](https://linkedin.com/in/filip-tarcala-541a68353)
+fifo.tarcala1@gmail.com · [LinkedIn](https://linkedin.com/in/filip-tarcala-541a68353)
